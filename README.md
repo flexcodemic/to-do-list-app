@@ -2,7 +2,7 @@
 
 A simple, elegant To-Do List application built using **HTML**, **CSS**, and **JavaScript**. This app helps you create, manage, and delete tasks efficiently, featuring a user-friendly design and interactive features.
 
-![To-Do List Demo](/images/To-Do-List-img.png)
+![To-Do List Demo](images/To-Do-List-img.png)
 
 ## Features
 - **Add Tasks**: Quickly add new tasks to your list.
